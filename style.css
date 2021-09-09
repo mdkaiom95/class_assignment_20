@@ -1,0 +1,37 @@
+.breadcrumb-bg{
+    background-color: #e9ecef;
+
+}
+.accordion-full h2 button {
+	border: 2px solid #ddd;
+	color: #0b81ff;
+	font-size: 22px;
+	font-weight: 500;
+	padding: 10px 0 10px 20px;
+    background-color: #f7f7f7;
+}
+.accordion-button::after{
+    display: none;
+}
+.scrollspy-example {
+    position: relative;
+    height: 150px;
+    margin-top: .5rem;
+    overflow-y: auto;
+}
+
+.scrollspy-example{
+    height: 150px;
+    overflow-y: scroll;
+}
+.accordion-1 h2 button {
+	border: 2px solid #ddd;
+	color: #0b81ff;
+	font-size: 22px;
+	font-weight: 600;
+	padding: 10px 0 10px 20px;
+}
+
+.accordion-button::after{
+    display: none;
+}
